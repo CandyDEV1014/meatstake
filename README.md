@@ -1,0 +1,2 @@
+# meatstake
+Staking project
